@@ -1,0 +1,3 @@
+#Cambiando al directorio de la app
+library(shiny)
+runApp(07_arbol)
